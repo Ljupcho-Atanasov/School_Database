@@ -1,0 +1,31 @@
+Faculty: Superman,1938,PHY,true
+Faculty: George,1990,dfg,false
+Faculty: Erica,1978,gbve,true
+Faculty: Robert,1976,eee,true
+Student :Wonderwoman,1941,JST,true
+Student :Henry,1990,cs,true
+Student :Ljupcho,1982,cs,true
+Student :Lidia,1992,art,false
+Flash Gordon,1934,Security,safety
+Kole,1990,werf,clean
+Martin,1991,sanitary,clean
+Carl,1981,moral,smile
+Course: true,777,GCMP777,4
+Course: true,711,GCMP711,4
+Course: true,723,GMAT723,4
+Course: false,168,UCMP168,4
+Course: false,338,UCMP338,4
+Course: true,111,Gqqq111,1
+Course: false,222,Uwww222,2
+Course: true,333,Geee333,3
+Course: true,444,Gmat444,4
+Course: true,454,Gcs454,4
+Course: true,432,Gcs432,4
+Course: true,436,Gfhfh436,3
+Course: true,324,Gfdr324,3
+Course: false,585,Umfk585,2
+Course: true,411,Gmmn411,3
+Course: true,333,Gnnv333,2
+Course: false,494,Ummf494,3
+Course: true,332,Gmmf332,3
+Course: false,445,Ummk445,1
